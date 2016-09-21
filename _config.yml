@@ -1,0 +1,7 @@
+name: "SieuTV"
+subline: "Phim Ma"
+baseurl: "/phimma"
+asseturl: "/assets"
+permalink: /:categories/:title/
+paginate: 30
+paginate_path: "/page:num"
